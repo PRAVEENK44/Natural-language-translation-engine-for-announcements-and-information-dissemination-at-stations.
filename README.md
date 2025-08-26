@@ -1,4 +1,4 @@
-# RailVani: A Real-Time Voice Translation System for Railway Stations
+# Natural language translation engine for announcements and information dissemination at stations
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Flask/FastAPI-orange)
