@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask/FastAPI-orange)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A capstone project for the B.Tech Computer Science & Engineering (AI & ML) program at Presidency University, Bengaluru. This system provides real-time, multilingual voice and text translation of announcements for Indian railway stations.
+A capstone project under completion by B.Tech Computer Science & Engineering (AI & ML) students of Presidency University, Bengaluru. This system provides real-time, multilingual voice and text translation of announcements for Indian railway stations.
 
 ## 📜 Problem Statement
 **Problem ID:** PSCS_51
